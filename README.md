@@ -1,7 +1,4 @@
-
-<div style="text-align: center;font-size: 60px;">
-🦀
-</div>
+# 🦀
 
 ![](https://raw.githubusercontent.com/TakahiroSato/TakahiroSato/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
